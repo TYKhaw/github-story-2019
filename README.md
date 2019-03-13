@@ -2,7 +2,7 @@
 
 #Chapters
 
-[Chapter 01](https://github.com/TYKhaw/github-story-2019/Chapter1.html)
+[Chapter 01](https://tykhaw.github.io/github-story-2019/Chapter1.html)
 
 [Chapter 02]
 
