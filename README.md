@@ -20,7 +20,7 @@
 
 [Release Version 2](https://github.com/TYKhaw/github-story-2019/releases/tag/v2.0)
 
-[Release Version 3]
+[Release Version 3](https://github.com/TYKhaw/github-story-2019/releases/tag/v3.0)
 
 # Issues
 
