@@ -8,7 +8,7 @@
 
 [Chapter 03](https://tykhaw.github.io/github-story-2019/Chapter3.html)
 
-[Chapter 04 (Alternate version Chapter 03)]()
+[Chapter 04 (Alternate version Chapter 03)](https://github.com/TYKhaw/github-story-2019/blob/alternate_ending/Chapter3%20(Alternate%20ending).html)
 
 # GitHub Main Page
 
@@ -21,6 +21,8 @@
 [Release Version 2](https://github.com/TYKhaw/github-story-2019/releases/tag/v2.0)
 
 [Release Version 3](https://github.com/TYKhaw/github-story-2019/releases/tag/v3.0)
+
+[Release Version 3.1)(https://github.com/TYKhaw/github-story-2019/releases/tag/v3.1)
 
 # Issues
 
