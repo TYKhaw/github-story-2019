@@ -8,7 +8,7 @@
 
 [Chapter 03](https://tykhaw.github.io/github-story-2019/Chapter3.html)
 
-[Chapter 04 (Alternate version Chapter 03)](https://github.com/TYKhaw/github-story-2019/blob/alternate_ending/Chapter3.html)
+[Chapter 03 (Alternate version)](https://github.com/TYKhaw/github-story-2019/blob/alternate_ending/Chapter3.html)
 
 # GitHub Main Page
 
