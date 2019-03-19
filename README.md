@@ -22,7 +22,7 @@
 
 [Release Version 3](https://github.com/TYKhaw/github-story-2019/releases/tag/v3.0)
 
-[Release Version 3.1)(https://github.com/TYKhaw/github-story-2019/releases/tag/v3.1)
+[Release Version 3.1](https://github.com/TYKhaw/github-story-2019/releases/tag/v3.1)
 
 # Issues
 
